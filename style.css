@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    font-family: 'Arial';
+    background: rgb(237, 146, 202);
+    color: rgb(228, 22, 146);
+}
+img {
+	width: 440px;
+}
+.ing {
+    width: 600px;
+}
